@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm an aspiring software developer with a passion for coding(mostly JavaScript). I'll be graduating from University of Cincinnati in May with a B.S. in Information Technology (Software Development)
+
+- 🔭 I'm currently working on my senior design project
+- 🌱 I'm currently learning React
