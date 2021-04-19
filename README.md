@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring software and web developer with a passion for coding (mostly JavaScript). I'll be graduating from University of Cincinnati in May with a B.S. in Information Technology (Software Development)
+My name is Liam and I'm an aspiring software/web developer with a passion for coding (mostly JavaScript). I'll be graduating from University of Cincinnati in May with a B.S. in Information Technology (Software Development)
 
-- 🔭 I'm currently working on my senior design project
+- 🔭 Open to work opportunities
 - 🌱 I'm currently learning React
+- ⚡ Fun fact: I'm a big fan of Linux and open-source software
