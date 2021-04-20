@@ -19,4 +19,4 @@ My name is Liam and I'm an aspiring software/web developer with a passion for co
 
 - 🔭 Open to work opportunities
 - 🌱 I'm currently learning React
-- ⚡ Fun fact: I'm a big fan of Linux and open-source software
+- ⚡ I'm a big fan of Linux and open-source software
